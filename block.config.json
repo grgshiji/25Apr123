@@ -1,0 +1,16 @@
+{
+  "name": "25Apr123",
+  "type": "package",
+  "blockId": "WZLH8fEmsBHXtfnBaRusu",
+  "source": {
+    "https": "https://github.com/grgshiji/25Apr123.git",
+    "ssh": "git@github.com:grgshiji/25Apr123.git",
+    "branch": "block_25Apr123"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
